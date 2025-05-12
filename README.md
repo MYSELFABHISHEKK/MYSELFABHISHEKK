@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me :)<br>🧑‍💻 I’m currently working on CRUD-based applications with real-time data analytics.<br>🤝 I’m looking to collaborate on projects with sharp minds to grow and brainstorm impactful ideas.<br>👐 I’m looking for help with scaling full-stack applications and refining complex logic.<br>🌱 I’m currently learning about RESTful APIs and backend service optimization.<br>💬 Ask me about full-stack development, real-time data handling, or project structuring.<br>⚡ Fun fact: I love movies with strong scripts — Goodfellas is my all-time favorite! 🎬<br><br>
+🧑‍💻 I’m currently working on CRUD-based applications with real-time data analytics.<br>🤝 I’m looking to collaborate on projects with sharp minds to grow and brainstorm impactful ideas.<br>👐 I’m looking for help with scaling full-stack applications and refining complex logic.<br>🌱 I’m currently learning about RESTful APIs and backend service optimization.<br>💬 Ask me about full-stack development, real-time data handling, or project structuring.<br>⚡ Fun fact: I love movies with strong scripts — Goodfellas is my all-time favorite! 🎬<br><br>
 
 
 ## 🌐 Socials:
